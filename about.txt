@@ -1,0 +1,3 @@
+my name is jaydheer.
+I'm studying BCA.
+I learned how to create repositories and edit the file in GitHub.
